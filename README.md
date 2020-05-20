@@ -1,8 +1,2 @@
-<style> 
-    h1 {
-        color: green;
-    }
-</style>
 
-
-<h1>hello &#x1F43A;</h1>
+<h1 style="color: aqua;">hello &#x1F43A;</h1>
