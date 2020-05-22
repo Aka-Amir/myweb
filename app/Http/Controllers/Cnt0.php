@@ -11,9 +11,10 @@ class Cnt0 extends Controller {
             ['name' , '=' , 'amir'],
             ['email' , '=' , 'khalili']
         ])->get();
-        
-        
-        
         return view('welcome' , ["Data" => $Orders]);
+    }
+
+    public function aboutUs() {
+        return view("aboutUs");
     }
 }

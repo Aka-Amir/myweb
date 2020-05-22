@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'Cnt0@index');
+Route::get('about-us', "Cnt0@aboutUs");

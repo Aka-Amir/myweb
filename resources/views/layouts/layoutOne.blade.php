@@ -5,10 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Laravel &#x1F525;</title>
-        <body>
-            
-        </body>
-        </html>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -20,7 +16,6 @@
     </head>
     <body>
 
-        
         @yield('Landing')
         
         <script src="/Assets/node_modules/jquery/dist/jquery.js"></script>

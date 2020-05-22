@@ -92,17 +92,12 @@
                 هنگامی که یک طراح UI در حال حال طراحی یک نرم افزار است ، به رفع نیاز مشتری بسنده کرده و یک نرم افزار
                 ساده و زیبا ارایه میکند که نتیجه ی آن حس خوبی است که به کاربر سیستم منتقل می شود که مربوط به UX محصول می
                 شود.
-
-                <br>
-                {{ $Data[0]->name }}
             </div>
         </div>
     </section>
     {{-- <button class="add-button">Add to home screen</button> --}}
 </main>
 
-<footer>
-
-</footer>
+@extends('layouts.footer')
 
 @endsection
